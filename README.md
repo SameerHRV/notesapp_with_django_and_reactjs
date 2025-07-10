@@ -109,5 +109,5 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-[Your Name] – [your.email@example.com]  
-GitHub: [your-profile](https://github.com/your-profile)
+[Sameer Harapanahalli] – [sameerhrv@gmail.com]  
+GitHub: [SameerHRV](https://github.com/SameerHRV)
